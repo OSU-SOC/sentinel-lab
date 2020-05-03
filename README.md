@@ -6,7 +6,7 @@ Sentinel Lab is a fork of Azure Sentinel2Go, an open source project developed to
 
 # Media
 
-For more information about the development of this project, feel free to check out the following resources:
+For more information about the development of this project as well as a quasi getting started guide, feel free to check out the following resources:
 
 * [Azure Sentinel Lab 🇻🇨](https://dev.azure.com/chono/Sentinel%20Lab/_wiki/wikis/Sentinel-Lab.wiki/1/Azure-Sentinel-Lab)
 
